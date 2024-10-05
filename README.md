@@ -13,15 +13,16 @@
 8. [8. Protocols](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/8.-Protocols)
 9. [9. VPN, VLAN, I2P](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/9.-VPN,-vLAN,-I2P)
 10. [10. Redundancy in Networking](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/10.-Redundancy-in-Networking)
-11. [11. CLI cisco device setup](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/11.-CLI-cisco-device-setup)
-
-
+11. [11. CLI cisco device setup](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/11.-CLI-cisco-device-setup
 
 ## 🚀 Getting Started
 To access these valuable resources:
-	📥 Clone or Download: Clone this repository or download the files to your local machine.
-	📚 Explore and Learn: Dive into the notes and start exploring the world of networking at your own pace.
-	🤝 Share and Collaborate: Feel free to share these notes with others and collaborate on improving them.
+
+📥 Clone or Download: Clone this repository or [download](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/tree/main/Notes%20.pdf) the files to your local machine.
+
+📚 Explore and Learn: Dive into the notes and start exploring the world of networking at your own pace.
+
+🤝 Share and Collaborate: Feel free to share these notes with others and collaborate on improving them.
 
 
 ## 🤝 Contributions Welcome
