@@ -3,7 +3,7 @@
 #### Let's dive in! 🚀
 ---
 ## 🗺️ Index
-1. [1. Networking Device](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/1.-Network-device)
+1. [1. Networking Device](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/1.-Networking-device)
 2. [2. Networking Fundamentals](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/2.-Networking-Fundamentals)
 3. [3. Firewall ,IPS ,IDS](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/3-Firewall-,IPS-,IDS)
 4. [4. Interfaces and Cables](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/4.-Interfaces-and-Cables)
@@ -21,6 +21,7 @@
 
 - Contributions and feedback are always welcome! If you find any errors, have additional insights to share, or want to contribute new content, please follow the guidelines outlined in CONTRIBUTING.md.
 
+---
 
 ### MIT License
 
