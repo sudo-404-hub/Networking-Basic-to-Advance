@@ -1,4 +1,4 @@
-# Networking Basic to Advance
+# Networking Basic to Advance **NOTES**
  **This is the ultimate course for you all who want to learning networking.**
 #### Let's dive in! 🚀
 ---
