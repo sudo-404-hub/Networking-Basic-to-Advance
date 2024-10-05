@@ -1,6 +1,9 @@
 # Networking Basic to Advance **NOTES**
  **This is the ultimate course for you all who want to learning networking.**
 #### Let's dive in! 🚀
+
+![WhatsApp Image 2024-10-05 at 12 02 56_893f6305](https://github.com/user-attachments/assets/f3023232-8c2b-4ca7-b4d4-13e6fbf771f4)
+
 ---
 ## 🗺️ Index
 1. [1. Networking Device](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/1.-Networking-device)
