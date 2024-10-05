@@ -14,7 +14,7 @@
 9. [9. VPN, VLAN, I2P](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/9.-VPN,-vLAN,-I2P)
 10. [10. Redundancy in Networking](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/10.-Redundancy-in-Networking)
 11. [11. CLI cisco device setup](https://github.com/sudo-404-hub/Networking-Basic-to-Advance/wiki/11.-CLI-cisco-device-setup)
-
+---
 ## 🚀 Getting Started
 To access these valuable resources:
 
@@ -24,7 +24,7 @@ To access these valuable resources:
 
 🤝 Share and Collaborate: Feel free to share these notes with others and collaborate on improving them.
 
-
+---
 ## 🤝 Contributions Welcome
 
 - Contributions and feedback are always welcome! If you find any errors, have additional insights to share, or want to contribute new content, please follow the guidelines outlined in CONTRIBUTING.md.
